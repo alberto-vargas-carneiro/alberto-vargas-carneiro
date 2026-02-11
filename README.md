@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou estudante de desenvolvimento de software com foco em Java e React.</p>
+<p align="left">Sou estudante de desenvolvimento de software com foco em fullstack.</p>
 
 ###
 
@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">- Angular<br>- Docker<br>- Microserviços</p>
+<p align="left">- Angular<br>- Docker<br>- Microserviços<br>- Kafka</p>
 
 ###
 
